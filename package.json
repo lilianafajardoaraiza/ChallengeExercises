@@ -1,0 +1,11 @@
+{
+  "name": "testcafe_workshop",
+  "version": "1.0.0",
+  "description": "TestCafe project",
+  "main": "LoginTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liliana Fajardo Araiza",
+  "license": "ISC"
+}
